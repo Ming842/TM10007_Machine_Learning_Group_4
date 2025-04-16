@@ -1,3 +1,2 @@
-,n_estimators,min_samples_split,min_samples_leaf,max_samples,max_depth,bootstrap,auc,f1,sensitivity,specificity,accuracy
-Outer 0,54,5,2,0.8011107929369699,13,True,0.5,0.0,0.0,1.0,0.8253012048192772
-Outer 1,23,3,3,0.8814382963121311,18,True,0.5,0.0,0.0,1.0,0.8253012048192772
+,knn__algorithm,knn__metric,knn__n_neighbors,knn__weights,auc,f1,sensitivity,specificity,accuracy
+Outer 0,auto,euclidean,11,uniform,0.541278630757614,0.1212121212121212,0.06896551724137931,0.9854014598540146,0.8253012048192772
